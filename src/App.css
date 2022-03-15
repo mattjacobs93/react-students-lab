@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+
+.student {
+  border: 3px solid black;
+  padding: 10px;
+}
+
+.score {
+  border: 1px solid black;
+}
+
+.name {
+  text-decoration: underline;
+}
